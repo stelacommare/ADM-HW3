@@ -4,7 +4,7 @@
 
 `Name`: Giulia Iadisernia `Matricola`: 2065450 `Email`: iadisernia.2065450@studenti.uniroma1.it <br>
 `Name`: Francesco Ferrusi `Matricola`: 2081332 `Email`: francesco.ferrusi@outlook.it <br>
-`Name`: Javier Martinez Velasco `Matricola`: 2058968 `Email`: martinezvelasco.2058968@studenti.uniroma1.it <br>
+`Name`: Stefano La Commare `Matricola`: 1919033 `Email`: lacommare.1919033@studenti.uniroma1.it <br>
 
 `INTRODUCTION`:
 
