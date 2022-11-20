@@ -1,1 +1,16 @@
 # ADM-HW3
+
+`AUTHORS`:
+
+`Name`: Giulia Iadisernia `Matricola`: 2065450 `Email`: iadisernia.2065450@studenti.uniroma1.it <br>
+`Name`: Lorenzo Incoronato `Matricola`: 1916863 `Email`: incoronato.1916863@studenti.uniroma1.it <br>
+`Name`: Javier Martinez Velasco `Matricola`: 2058968 `Email`: martinezvelasco.2058968@studenti.uniroma1.it <br>
+
+`INTRODUCTION`:
+
+The repository ADM-HW3 contains the code from Homework 3 for the course of Algorithmic Methods for Data Mining (Master of Data Science 22/23 University of La Sapienza).
+
+`FILES CONTAINED`:
+
+* The file `main.ipynb` contains a Jupyter Notebook with questions 1-5 and question 7 of Homework 3 "Places of the World".
+* The file `CommandLine.sh` contains the answer to Command Line Question in a .sh bash executable file.
